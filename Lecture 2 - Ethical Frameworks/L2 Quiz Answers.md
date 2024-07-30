@@ -2,10 +2,9 @@
 According to social contract theory, what is the primary source of political authority?
 - The will of the majority or the people
 
-## Question 2
+## Question 2 (Gemini ANS)
 Which of the following statements are true?
 - Act utilitarianism applies the principles of utility on actions; rule utilitarianism applies to rules.
-- Utilitarianism justifies the punishment of socially unacceptable behaviours.
 - Both act utilitarianism and rule utilitarianism belong to consequentialism.
 
 ## Question 3
