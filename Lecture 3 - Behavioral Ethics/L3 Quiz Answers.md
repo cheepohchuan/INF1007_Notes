@@ -37,3 +37,25 @@ Our limited information on other people's situation factors may result in:
 ## Question 10
 Which of the following describes cognitive dissonance?
 - The mental discomfort felt when there is inconsistency between one's cognition and behaviour.
+
+## Question 11
+Amy is a cybersecurity analyst who believes that open-source software is inherently less secure than proprietary software. Her company is not evaluating different options for a new knowledge management system. They are considering both open-source and proprietary software. Upon learning that there may be a critical security vulnerability in a leading knowledge management system, Amy downplays the significance of this vulnerability, focusing instead of the perceived security risks associated with open-source software. In this example, Amy is demonstrating:
+- Confirmation bias
+
+## Question 12
+Which of the following is true about the Stanford Prison Experiment (SPE)?
+- This study shows that people's behaviour can be affected by situational and social factors.
+
+## Question 13
+Which of the following helps reduce the impact of cognitive bias:
+- Education and awareness
+
+## Question 14
+Which of the following experiments provide evidence of people's tendency to obey authorities?
+- The Milgram experiments
+
+## Question 15
+Which of the following statement are true about anonymity? (Choose all that apply.)
+- Anonymity can enable individuals to seek help on sensitive issues without revealing their identity.
+- Online anonymity provides some degree of privacy.
+- Anonymity may lead individuals to act unethically due to lack of accountability.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 2 - Ethical Frameworks/L2 Quiz Answers.md",
+                "file": "Lecture 11 - AI Ethics/L11 Quiz Answers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 2 - Ethical Frameworks/L2 Quiz Answers.md",
+                "file": "Lecture 11 - AI Ethics/L11 Quiz Answers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 2 - Ethical Frameworks/L2 Quiz Answers.md",
+                "file": "Lecture 11 - AI Ethics/L11 Quiz Answers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 2 - Ethical Frameworks/L2 Quiz Answers.md"
+                "file": "Lecture 11 - AI Ethics/L11 Quiz Answers.md"
               }
             }
           }
@@ -148,9 +148,28 @@
   },
   "active": "d1146c37b339972e",
   "lastOpenFiles": [
-    "Lecture 2 - Ethical Frameworks/L2 Notes.md",
-    "Lecture 2 - Ethical Frameworks/L2 Quiz Answers.md",
+    "Lecture 10 - Work and Wealth/L10 Quiz Answers.md",
+    "Lecture 8 - Information Security/L8 Quiz Answers.md",
+    "Lecture 7 - Privacy and the Government/L7 Quiz Answers.md",
+    "Lecture 5 - Privacy and Data Protection/L5 Quiz Answers.md",
+    "Lecture 4 - Workplace Ethics/L4 Quiz Answers.md",
     "Lecture 3 - Behavioral Ethics/L3 Quiz Answers.md",
+    "Lecture 1 - Intro and Code of Ethics/L1 Quiz Answers.md",
+    "Lecture 3 - Behavioral Ethics/L3 Notes.md",
+    "Lecture 2 - Ethical Frameworks/L2 Quiz Answers.md",
+    "Lecture 2 - Ethical Frameworks/L2 Notes.md",
+    "Lecture 1 - Intro and Code of Ethics/L1 Notes.md",
+    "Lecture 8 - Information Security/L8 Notes.md",
+    "Code of Conduct/ACM Code of Conduct.md",
+    "Code of Conduct/SCS Code of Conduct.md",
+    "professionalism.md",
+    "Code of Conduct",
+    "Lecture 11 - AI Ethics/L11 Notes.md",
+    "Lecture 10 - Work and Wealth/L10 Notes.md",
+    "Lecture 9 - Intellectual Property/L9 Notes.md",
+    "Lecture 7 - Privacy and the Government/L7 Notes.md",
+    "Lecture 5 - Privacy and Data Protection/L5 Notes.md",
+    "Lecture 4 - Workplace Ethics/L4 Notes.md",
     "INF1007_Notes/Lecture 9 - Intellectual Property/L9 Quiz Answers.md",
     "INF1007_Notes/Lecture 9 - Intellectual Property",
     "INF1007_Notes/Lecture 8 - Information Security/L8 Quiz Answers.md",
@@ -161,24 +180,9 @@
     "INF1007_Notes/Lecture 5 - Privacy and Data Protection",
     "INF1007_Notes/Lecture 4 - Workplace Ethics/L4 Quiz Answers.md",
     "INF1007_Notes/Lecture 4 - Workplace Ethics",
-    "INF1007_Notes/Lecture 3 - Behavioral Ethics/L3 Quiz Answers.md",
     "INF1007_Notes/Lecture 3 - Behavioral Ethics",
-    "INF1007_Notes/Lecture 2 - Ethical Frameworks/L2 Quiz Answers.md",
     "INF1007_Notes/Lecture 2 - Ethical Frameworks",
-    "INF1007_Notes/Lecture 11 - AI Ethics/L11 Quiz Answers.md",
     "INF1007_Notes/Lecture 11 - AI Ethics",
-    "INF1007_Notes/Lecture 10 - Work and Wealth/L10 Quiz Answers.md",
-    "INF1007_Notes/Lecture 10 - Work and Wealth",
-    "INF1007_Notes/Lecture 1 - Intro and Code of Ethics/L1 Quiz Answers.md",
-    "INF1007_Notes/Lecture 1 - Intro and Code of Ethics",
-    "Lecture 1 - Intro and Code of Ethics/L1 Quiz Answers.md",
-    "Lecture 4 - Workplace Ethics/L4 Quiz Answers.md",
-    "Lecture 5 - Privacy and Data Protection/L5 Quiz Answers.md",
-    "Lecture 7 - Privacy and the Government/L7 Quiz Answers.md",
-    "Lecture 9 - Intellectual Property/L9 Quiz Answers.md",
-    "Lecture 8 - Information Security/L8 Quiz Answers.md",
-    "Lecture 10 - Work and Wealth/L10 Quiz Answers.md",
-    "Lecture 11 - AI Ethics/L11 Quiz Answers.md",
-    "Welcome.md"
+    "INF1007_Notes/Lecture 10 - Work and Wealth"
   ]
 }

@@ -39,19 +39,17 @@ It is important for students of ICT to learn about ethical theories / frameworks
 - They need to make ethical decisions in situations that were not previously studied / encountered.
 
 ## Question 11
-Amy is a cybersecurity analyst who believes that open-source software is inherently less secure than proprietary software. Her company is not evaluating different options for a new knowledge management system. They are considering both open-source and proprietary software. Upon learning that there may be a critical security vulnerability in a leading knowledge management system, Amy downplays the significance of this vulnerability, focusing instead of the perceived security risks associated with open-source software. In this example, Amy is demonstrating:
-- Confirmation bias
+Which of the following is not in the ACM Code of Ethics and Professional Conduct?
+- Always abide by all legislation in countries related to your work
 
 ## Question 12
-Which of the following is true about the Stanford Prison Experiment (SPE)?
-- This study shows that people's behaviour can be affected by situational and social factors.
+You are a software developer working for a startup. Your boss has just asked you to take on a project that involves using a programming language you are not familiar with, and you are not sure if you have the necessary skills to complete the project successfully. What is the most appropriate course of action for you to take in this scenario, in line with the principle of competence in the Singapore Computer Society Code of Ethics?
+- Accept the project, but only if your boss provides you with additional training or support to learn the programming language.
 
 ## Question 13
-Which of the following helps reduce the impact of cognitive bias:
-- Education and awareness
+The SCS Code of Conduct provides specific guidance on IT professionals who are in leadership positions.
+- False
 
 ## Question 14
-Which of the following statement are true about anonymity? (Choose all that apply.)
-- Anonymity can enable individuals to seek help on sensitive issues without revealing their identity.
-- Online anonymity provides some degree of privacy.
-- Anonymity may lead individuals to act unethically due to lack of accountability.
+Which of the following best describes the concept of professional conduct?
+- The standards of behavior that are expected of professionals in a given field, including ethical and moral standards, as well as day-to-day behavior in the workplace.

@@ -59,4 +59,12 @@ According to Richard De George, it is permissible (i.e., you have the right) to 
 - Have you told your manager about your concerns?
 - Have you tried every possible channel within the organization to resolve the problem?
 
+## Question 15
+A lawyer gives an expensive gift to a judge in the hope of getting a favorable ruling.
+This is an example of: (Choose the best option)
+- Bribery
+
+## Question 16
+Which of the following shows a good example of a problem statement?
+- Our stocks do not tally with what we have on the ledger, and we are losing an estimated $1000 every month.
 

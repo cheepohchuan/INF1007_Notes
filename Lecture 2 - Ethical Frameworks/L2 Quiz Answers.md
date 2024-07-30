@@ -54,3 +54,7 @@ Which of the following statements best describes the concept of cultural relativ
 ## Question 14
 According to ___ , the morality of an action should be based on whether the action itself it right or wrong under a series of rules and principles.
 - Deontological ethics
+
+## Question 15
+A person finds a wallet containing a significant amount of cash on the sidewalk. He has the option to either keep the money for himself or make an effort to return it to its rightful owner. Which of the following responses best aligns with a Kantian approach to the ethical dilemma presented in the scenario?
+- The person attempts to locate the owner of the wallet by searching for identification or contacting local authorities, recognizing the importance of honesty and respect for others' property rights.

@@ -62,5 +62,5 @@ Shortly after the 9/11 terrorist attacks, what was the prevailing attitude of th
 - The majority of Americans supported mass surveillance as a necessary measure to prevent future terrorist attacks.
 
 ## Question 15
-Which of the following protects official information related to the government and public agencies?
-- Official Secrets Act
+When it comes to mass surveillance, what distinguishes data integration from data mining?
+- Data integration involves the gathering and merging of various sources of data, while data mining refers to the analysis of collected data to discover patterns and insights.

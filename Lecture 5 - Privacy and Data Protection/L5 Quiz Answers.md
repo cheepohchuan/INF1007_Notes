@@ -14,7 +14,7 @@ What is one of the privacy concerns associated with comprehensive profiling and 
 - Potential discrimination or exclusion based on profiling results.
 
 ## Question 4
-To comply with the obligation, companies should provide mechanisms for customers to review and update their personal information that is in their custody.
+To comply with the ___ obligation, companies should provide mechanisms for customers to review and update their personal information that is in their custody.
 - access and correction
 
 ## Question 5

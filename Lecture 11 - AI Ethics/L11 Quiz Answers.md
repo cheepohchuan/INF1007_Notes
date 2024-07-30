@@ -61,3 +61,7 @@ What are the guiding principles provided by Singapore's Model AI Governance Fram
 ## Question 14
 Due to their black box nature, it is not possible for AI models based on complex neural networks to build trust with users.
 - False
+
+## Question 15
+Which of the following requirements from "Ethics Guidelines for Trustworthy AI" recommends a fallback plan to be established in case something goes wrong?
+- Technical robustness and safety

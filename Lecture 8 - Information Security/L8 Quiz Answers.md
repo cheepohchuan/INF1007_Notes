@@ -49,3 +49,11 @@ Which of the following statements best describes the nature of physical security
 ## Question 13
 Which of the following is NOT a principle of hacker ethics?
 - Security
+
+## Question 14
+Which of the following protects official information related to the government and public agencies?
+- Official Secrets Act
+
+## Question 15
+Which of the following is a search good?
+- A Lego set

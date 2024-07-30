@@ -60,3 +60,8 @@ According to the lecture slides, which of the following shows how automation may
 - Automation reduces the price of a product, which increases the demand for the product. To meet this increased demand, more jobs are created.
 - Automation creates jobs that design, develop and maintain the automation systems.
 - Automation increases real incomes, which increases the overall demand for products and services within the economy. To meet this increased demand, more jobs are created.
+
+## Question 15
+Which of the following are changes brought by ICT in the workplace? (Choose all that apply)
+- Relationships between employees have become more dynamic
+- Organizational structures have become flatter
