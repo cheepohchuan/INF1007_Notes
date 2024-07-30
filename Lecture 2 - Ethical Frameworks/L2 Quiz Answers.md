@@ -39,3 +39,19 @@ A group of friends is planning a weekend getaway. They are deciding between two 
 ## Question 10
 According to consequentialism, what is the primary factor in determining whether an action is right or wrong?
 - The consequence of the action
+
+## Question 11 (ChatGPT ANS)
+Which of the following healthcare policies best aligns with Rawls' principles of justice?
+- A healthcare system that provides equal healthcare resources to all citizens, irrespective of their socioeconomic status,  ensuring equitable access to medical services
+
+## Question 12 (ChatGPT ANS)
+According to Kant, both the first formulation and the second formulation of the categorical imperative will arrive at the same conclusion about the morality of an action.
+- True
+
+## Question 13
+Which of the following statements best describes the concept of cultural relativism?
+- Different cultures may have different moral values and beliefs.
+
+## Question 14
+According to ___ , the morality of an action should be based on whether the action itself it right or wrong under a series of rules and principles.
+- Deontological ethics
